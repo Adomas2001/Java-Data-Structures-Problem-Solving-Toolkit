@@ -1,5 +1,4 @@
 # Java-Data-Structures-Problem-Solving-Toolkit
-# Java Data Structures & Problem-Solving Toolkit
 
 This repository contains implementations and applied problem-solving tasks using Java data structures (linked lists, stacks, queues) across diverse real-world-inspired scenarios. The project is split into foundational components and applied logic tasks, with emphasis on generic class usage, iterable structures, and file-based input/output handling.
 
