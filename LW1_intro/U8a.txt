@@ -1,0 +1,9 @@
+Daniel;George;0037069874478;Vilnius;23:44;11;
+Valaus;sara;0037069874478;Kaunas;10:44;19;
+laba;andrien;0037069874478;Kaunas;23:44;25;
+Laura;alaus;0037069974497;Klaipeda;10:14;23;
+Ktistienne;Tom;0037069974497;Vilnius;11:14;52;
+Kare;Tomsonas;0037069974497;Klaipeda;23:14;20;
+Kared;andme;0037069974497;Kaunas;10:14;23;
+Smack;mich;0037069874478;Vilnius;16:44;0.6;
+
